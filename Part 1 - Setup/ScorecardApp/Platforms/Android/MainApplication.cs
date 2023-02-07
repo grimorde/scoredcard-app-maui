@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace ScorecardApp;
+namespace ScoreCardApp;
 
 [Application]
 public class MainApplication : MauiApplication

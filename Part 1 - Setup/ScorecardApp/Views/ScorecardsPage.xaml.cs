@@ -1,4 +1,4 @@
-﻿namespace ScorecardApp.Views;
+﻿namespace ScoreCardApp.Views;
 
 public partial class ScorecardsPage : ContentPage
 {

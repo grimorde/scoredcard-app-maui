@@ -2,7 +2,7 @@
 
 using UIKit;
 
-namespace ScorecardApp;
+namespace ScoreCardApp;
 
 public class Program
 {

@@ -1,8 +1,8 @@
 ﻿global using CommunityToolkit.Maui;
 global using CommunityToolkit.Mvvm.ComponentModel;
 global using CommunityToolkit.Mvvm.Input;
-global using ScorecardApp.ViewModels;
-global using ScorecardApp.Views;
+global using ScoreCardApp.ViewModels;
+global using ScoreCardApp.Views;
 global using System.Collections.ObjectModel;
 global using System.ComponentModel;
 global using System.Diagnostics;

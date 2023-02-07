@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace ScorecardApp;
+namespace ScoreCardApp;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

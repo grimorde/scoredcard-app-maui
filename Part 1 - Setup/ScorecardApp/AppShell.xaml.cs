@@ -1,4 +1,4 @@
-﻿namespace ScorecardApp;
+﻿namespace ScoreCardApp;
 
 public partial class AppShell : Shell
 {
